@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Maan Saghir 👋
 
-<!--
-**maan026/maan026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student at UCP  
+🌐 Passionate about Web Development & Cloud Computing  
+☁️ Exploring scalable cloud-based systems using AWS  
+💻 Building responsive web applications and AI-powered solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Tech Stack
+
+## 💻 Languages
+- C++
+- Python
+- JavaScript
+- C
+
+## 🌐 Web Development
+- HTML5
+- CSS3
+- React.js
+- REST APIs
+- Responsive Web Design
+- Firebase
+- Node.js
+
+## ☁️ Cloud & DevOps
+- AWS EC2
+- AWS IAM
+- AWS VPC
+- Cloud Deployment
+- Git & GitHub
+- Basic CI/CD
+
+## 🗄️ Databases
+- SQL
+- Database Design
+- Query Optimization
+
+## 🤖 AI & Computer Vision
+- Machine Learning
+- Deep Learning
+- TensorFlow Lite
+- Computer Vision
+
+---
+
+# 📌 Featured Projects
+
+## 🌐 Portfolio Website
+Responsive portfolio website built using HTML, CSS, and JavaScript.
+
+## ☁️ Cloud-Based Crop Intelligence System
+AI-powered crop disease detection system with Firebase cloud integration and TensorFlow Lite.
+
+## ✈️ Airline Management System
+Full-stack web-based airline management and booking system with SQL backend.
+
+## 🏙️ Smart City Management System
+C++ OOP-based modular system for city operations and workflow automation.
+
+---
+
+# 📈 Currently Learning
+
+- Advanced React
+- AWS Cloud Services
+- Backend Development
+- Scalable System Design
+
+---
+
+# 📫 Connect With Me
+
+- 📧 Email: im.maan.dev@gmail.com
+- 💻 GitHub: https://github.com/maan026
+- 🔗 LinkedIn: ADD-YOUR-LINK
