@@ -74,4 +74,4 @@ C++ OOP-based modular system for city operations and workflow automation.
 
 - 📧 Email: im.maan.dev@gmail.com
 - 💻 GitHub: https://github.com/maan026
-- 🔗 LinkedIn: ADD-YOUR-LINK
+- 🔗 LinkedIn: https://www.linkedin.com/in/maan-saghir
